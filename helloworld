@@ -1,1 +1,2 @@
-print "hello world!"
+name = 'somehow'
+print "hello world!",name
